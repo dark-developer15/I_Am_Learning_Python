@@ -15,7 +15,7 @@
 5. https://www.youtube.com/watch?v=AWAjbtWBzGs&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=14
 6. How to run Python Code in CMD (Find Any Video)
 
-> ## Documentaion
+> ## Documentation
 1. https://realpython.com/interacting-with-python/
 2. https://realpython.com/python-data-types/
 3. https://realpython.com/python-variables/
